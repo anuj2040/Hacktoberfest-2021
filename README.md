@@ -8,3 +8,8 @@ Pull requests can be made in any GitHub-hosted repositories/projects.
 ## Kindly submit quality codes as "The quality of pull requests is paramount; quantity comes second"
 
 ![image](https://user-images.githubusercontent.com/56711086/135704901-a65d0bb8-a94d-49ce-8819-d289f3c0892f.png)
+
+
+# You have to open atleast 5 pull requests for you to being counted as a participant in hacktober fest.  -->
+## Also you have to make sure that you have to make legit changes to the repositary because the main aim is to contribute legit changes to a open source project.
+### Please don't do spam activites, respect this fest and create genuine pull requests.
